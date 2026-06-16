@@ -1,5 +1,6 @@
 # 📊 Data Jobs Dashboard — Power BI Project
-![Page_1](/Page_1.png)
+![Page_1](/Resources/Page_1.png)
+
 
 
 > A two-page interactive Power BI report analyzing the global data jobs market in 2024, covering salary benchmarks, job distribution, role-level comparisons, and job condition breakdowns.
@@ -34,7 +35,7 @@ README.md               ← This file
 ## 📄 Dashboard Pages
 
 ### Page 1 — Overview (Data Jobs Dashboard)
-![First_Page](/Page_1.png)
+![Page_1](/Resources/Page_1.png)
 
 
 
@@ -53,7 +54,8 @@ The landing page gives a high-level snapshot of the entire dataset.
 ---
 
 ### Page 2 — Drill-Through Detail (Role-Level View)
-![Page_2](/Page_2.png)
+![Page_1](/Resources/Page_2.png)
+
 Activated by right-clicking a job title or using the Drill Through button. Scoped to a single role (example shown: Data Engineer).
 
 | Visual | Description |
